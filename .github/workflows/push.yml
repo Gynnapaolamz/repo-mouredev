@@ -1,4 +1,4 @@
-name: Stats 
+name: Push 
 
 on:
   push:
